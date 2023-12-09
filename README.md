@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christion, an <a href="https://www.linkedin.com/in/christion-gervais-williams-464337212/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Christion, an <a href="https://www.linkedin.com/in/christion-gervais-williams-464337212/">IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
