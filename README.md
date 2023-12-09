@@ -29,10 +29,4 @@
   <li><a href = "https://github.com/Christion17/vpn">Understanding and Installing Virtual Private Networks</a></li>
 </ul>
 
-</ul>
-<br>
-<h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Christion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/christion-gervais-williams-464337212/)https://www.linkedin.com/in/christion-gervais-williams-464337212/
