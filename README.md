@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christion, an <a href="https://www.linkedin.com/in/christion-gervais-williams-464337212/">IT Professional</h1>
 
-<h2>My Information Technology Projects:</h2>
+<h2>Here are my Information Technology Projects:</h2>
 
 <ul>
 <li><b>osTicketing (Help Desk Ticketing)</b></li>
